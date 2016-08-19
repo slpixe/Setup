@@ -11,3 +11,7 @@
 8. Docker - [Download](https://download.docker.com/win/stable/InstallDocker.msi)
 9. CCleaner - [Download](https://www.piriform.com/ccleaner/download/standard)
 10. HeidiSQL - [Download](http://www.heidisql.com/download.php)
+
+## Windows Features
+1. Hyper-V (if docker, otherwise install VirtualBox & Vagrant)
+2. Bash for Windows (Windows settings -> Update & Security -> For Developers -> Developer Mode)
