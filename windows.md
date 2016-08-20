@@ -35,3 +35,9 @@
   12. SourceTree `choco install sourcetree`
   13. Vagrant `choco install vagrant`
   14. KeePass `choco install keepass.install`
+
+## NodeJS Setup
+1. Build Tools - (Run as Administrator) `npm install --global --production windows-build-tools`
+2. Gulp - `npm install -g gulp-cli`
+3. Grunt - `npm install -g grunt-cli`
+4. Http-server - `npm install http-server -g`
